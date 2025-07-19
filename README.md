@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Portfolio
 
-Hi, I’m **James Ojih**, a Mechatronics Engineering student with a strong passion for **Data Science**, **Machine Learning**, **AI**, and **Robotics**. This is where I share the projects I’m building as I explore these fields and gain hands-on experience.
+Hi, I’m **James Ojih**, a Mechatronics Engineer with a strong passion for **Data Science**, **Machine Learning**, **AI**, and **Robotics**. This is where I share the projects I’m building as I explore these fields and gain hands-on experience.
 
 ---
 
