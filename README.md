@@ -28,7 +28,7 @@ Here’s a glimpse of what I’m working on:
 ## 🛠️ Skills & Tools
 
 I’m working with tools and technologies such as:
-- **Programming**: Python, R
+- **Programming**: Python
 - **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
 - **Data Science**: Data cleaning, visualization (Matplotlib, Seaborn), EDA
 - **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation
